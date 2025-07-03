@@ -83,7 +83,7 @@ The script will display its progress in the terminal, showing which hosts and da
 
 ## Understanding the Report
 
-After the scan is complete, an Excel file will be created in the same directory. The report will have the following columns:
+After the scan is complete, an Excel file will be created in the same directory. The report will have somthing that look like the following columns:
 
 | Result # | Masked PAN         | Location                                                                                   |
 | :------- | :----------------- | :----------------------------------------------------------------------------------------- |
